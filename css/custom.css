@@ -1,0 +1,17 @@
+/* your styles go here */
+/* Search for the following two tags and change the colors */
+header {
+  text-align: center;
+  /* Change the following to #a94442 */
+  background: #18BC9C;
+  color: white;
+}
+
+.navbar-custom {
+  /* Change the following to #4a2458 */
+  background: #2C3E50;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border: none;
+}
